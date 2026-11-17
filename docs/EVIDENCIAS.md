@@ -24,7 +24,7 @@ Para $5.000.000 COP a 12 meses, el simulador muestra una cuota de $467.010 COP c
 
 ![Panel del cliente](../screenshots/dashboard.png)
 
-La cuenta de demostración muestra la próxima cuota, el capital pendiente y las solicitudes registradas.
+La cuenta de demostración muestra la próxima cuota, los préstamos activos y el estado de las solicitudes.
 
 ## 5. Configuración de la solicitud
 
