@@ -2,7 +2,7 @@
 
 Prototipo académico de créditos digitales. Permite estimar una cuota en pesos colombianos, solicitar un préstamo, revisar el resultado de una evaluación simulada y seguir el crédito desde la aceptación hasta el pago de las cuotas. El administrador puede consultar indicadores y revisar solicitudes desde su propio panel.
 
-El equipo está conformado por **José Aldana, Miguel Macea, María Sáenz y Jairo Cepeda**.
+El equipo está conformado por **José Aldana, Miguel Macea, María Sáenz, Jairo Cepeda y Jenaro Augusto Hernández Padilla**.
 
 ## Cómo abrir el proyecto
 
